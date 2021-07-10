@@ -1,6 +1,6 @@
 # Conheça-me
 
-Olá, meu nome é Jaedson Silva e tenho 14 anos de idade, sou um desenvolvedor web full-stack sempre buscando melhorar minhas habilidades!
+Olá, meu nome é Jaedson Silva e tenho 14 anos de idade, sou um desenvolvedor web sempre buscando melhorar minhas habilidades!
 
 ## Habilidades
 
