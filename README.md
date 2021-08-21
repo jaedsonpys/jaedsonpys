@@ -8,12 +8,18 @@ Aqui falarei um pouco dos meus **conhecimentos**, beleza?
 
 - Python
 - Flask
-- JavaScript
-- NodeJS | Express
+- Git
 - MySQL
-
 - HTML5
 - CSS3
+
+## Conhecimento
+
+Tenho conhecimento nessas tecnologias, mas nada muito **avançado**:
+
+- JavaScript
+- NodeJS | Express
+- Firebase
 
 ## Buscando aprender
 
@@ -21,7 +27,7 @@ Bem, não gosto de ficar parado em apenas uma **linguagem ou ferramenta**, quero
 
 Por isso, aqui estão as coisas que futuramente quero estudar:
 
-- TypeScript
+- C/C++
 - Machine Learning
 - React Native
 
@@ -29,8 +35,8 @@ Por isso, aqui estão as coisas que futuramente quero estudar:
 
 É bem **importante** para todo programador, não acha?
 
-- Instagram: @jaedson.py
-- GitHub: jaedsonpys
-- Linkedin: jaedson-silva-2b7b131bb
+- [Instagram](https://www.instagram.com/jaedson.py)
+- [GitHub](https://www.github.com/jaedsonpys)
+- [Linkedin](https://br.linkedin.com/in/jaedson-silva-2b7b131bb)
 
 Obrigado por me conhecer nesse imenso GitHub! Até a próxima.
