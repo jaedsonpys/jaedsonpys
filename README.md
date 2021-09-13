@@ -1,6 +1,6 @@
 # Conheça-me
 
-Olá, meu nome é Jaedson Silva, sou um desenvolvedor web sempre buscando melhorar minhas habilidades!
+Olá, meu nome é Jaedson Silva, sou um desenvolvedor Python há 1 ano focado em criações de aplicações web utilizando o framework Flask.
 
 ## Habilidades
 
@@ -10,8 +10,6 @@ Aqui falarei um pouco dos meus **conhecimentos**, beleza?
 - Flask
 - Git
 - MySQL
-- HTML5
-- CSS3
 
 ## Conhecimento
 
@@ -20,6 +18,7 @@ Tenho conhecimento nessas tecnologias, mas nada muito **avançado**:
 - JavaScript
 - NodeJS | Express
 - Firebase
+- React Native
 
 ## Buscando aprender
 
@@ -29,7 +28,6 @@ Por isso, aqui estão as coisas que futuramente quero estudar:
 
 - C/C++
 - Machine Learning
-- React Native
 
 ## Redes socias
 
