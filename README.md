@@ -1,40 +1,44 @@
-# Conheça-me
+# **Bem vindo ao meu perfil!**
+![BADGE](https://img.shields.io/static/v1?label=python&message=developer&color=red)
 
-Olá, meu nome é Jaedson Silva, sou um desenvolvedor Python há 1 ano focado em criações de aplicações web utilizando o framework Flask.
+Sou programador Python focado em desenvolvimento de *aplicacões* web e CLI (Comand Line Interface), com 1 ano de experiência.
 
-## Habilidades
+# **👨🏻‍💻 Habilidades**
 
-Aqui falarei um pouco dos meus **conhecimentos**, beleza?
+Aqui vão as *tecnologias* e *ferramentas* que eu possuo bastante **conhecimento**!
 
-- Python
-- Flask
-- Git
+- Python3
 - MySQL
+- Flask (Web Micro Framework Python)
+- Git e GitHub
+- HTML5
+- CSS3
+ 
+> Em questão de linguagem, Python é a minha favorita e única, já que ela consegue superar todas as minhas necessidades atuais.
 
-## Conhecimento
+# **👀 Conhecedor...**
 
-Tenho conhecimento nessas tecnologias, mas nada muito **avançado**:
+Cheguei a **estudar** essas tecnologias e **linguagens**, mas não me aprofundei tanto, quem sabe um dia eu volte...
 
 - JavaScript
-- NodeJS | Express
-- Firebase
-- React Native
+- NodeJS
+- C++
+- React Native / Expo
 
-## Buscando aprender
+# **📔 Cursos e certificados!**
 
-Bem, não gosto de ficar parado em apenas uma **linguagem ou ferramenta**, quero aprender aquela que resolver tal **problema** dos meus projetos, é claro.
+Durante esse tempo, meu objetivo sempre foi consumir ao máximo o conteúdo disponível gratuitamente na internet, como o **[Curso em Vídeo](https://cursoemvideo.com)**, YouTube e outras plataformas. Aqui estão os meus certificados e cursos atuais:
 
-Por isso, aqui estão as coisas que futuramente quero estudar:
+**1. Curso de Python3 | Curso em Vídeo**
 
-- C/C++
-- Machine Learning
+**2. Curso de MySQL | Curso em Vídeo**
 
-## Redes socias
+**3. [Certificado de Python (Básico)](https://www.hackerrank.com/certificates/aa74629e161b) | HackerRank**
 
-É bem **importante** para todo programador, não acha?
+**4. [Certificado de JavaScript](https://drive.google.com/file/d/1ske_7xu4N4S12T596z_ATwzThUfjZde_/view?usp=sharing) | Curso em Vídeo**
 
-- [Instagram](https://www.instagram.com/jaedson.py)
-- [GitHub](https://www.github.com/jaedsonpys)
-- [Linkedin](https://br.linkedin.com/in/jaedson-silva-2b7b131bb)
+**5. [Certificado de HTML5 e CSS3](https://drive.google.com/file/d/1snH4kDOHtRA0MM5yX62cX56I87kYaLQz/view?usp=sharing) | Curso em Vídeo**
 
-Obrigado por me conhecer nesse imenso GitHub! Até a próxima.
+# **✏️ Alguns dos meus projetos**
+
+De vários projetos simples e avançados, deixei aqui alguns deles!
