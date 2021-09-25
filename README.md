@@ -42,3 +42,7 @@ Durante esse tempo, meu objetivo sempre foi consumir ao máximo o conteúdo disp
 # **✏️ Alguns dos meus projetos**
 
 De vários projetos simples e avançados, deixei aqui alguns deles!
+
+**- Sistema de login | [Github](https://github.com/jaedsonpys/Sistema-de-Login)**
+
+![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
