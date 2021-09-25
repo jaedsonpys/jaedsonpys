@@ -1,5 +1,5 @@
 # **Bem vindo ao meu perfil!**
-![BADGE](https://img.shields.io/static/v1?label=python&message=developer&color=red)
+![BADGE](https://img.shields.io/static/v1?label=python&message=developer&color=red?style=flat-square&logo=python)
 
 Sou programador Python focado em desenvolvimento de *aplicacões* web e CLI (Comand Line Interface), com 1 ano de experiência.
 
@@ -43,6 +43,17 @@ Durante esse tempo, meu objetivo sempre foi consumir ao máximo o conteúdo disp
 
 De vários projetos simples e avançados, deixei aqui alguns deles!
 
-**- Sistema de login | [Github](https://github.com/jaedsonpys/Sistema-de-Login)**
+## **Sistema de login | [Código](https://github.com/jaedsonpys/Sistema-de-Login)**
 
 ![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
+![BADGE](https://img.shields.io/static/v1?label=linguagem&message=python)
+![BADGE](https://img.shields.io/static/v1?label=tipo&message=simples)
+
+Um simples sistema de autenticação onde você pode fazer login, logout e criar/deletar sua conta.
+
+### Tecnologias usadas:
+- Python3
+- MySQL
+- Flask
+- JWT (Json Web Token)
+- Bcrypt (Hash de senha)
