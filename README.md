@@ -43,7 +43,7 @@ Durante esse tempo, meu objetivo sempre foi consumir ao máximo o conteúdo disp
 
 De vários projetos simples e avançados, deixei aqui alguns deles!
 
-## **Sistema de login | [Código](https://github.com/jaedsonpys/Sistema-de-Login)**
+## **Sistema de login | [Ver Código](https://github.com/jaedsonpys/Sistema-de-Login)**
 
 ![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
 ![BADGE](https://img.shields.io/static/v1?label=linguagem&message=python)
