@@ -60,3 +60,15 @@ Um simples sistema de autenticação onde você pode fazer login, logout e criar
 - Flask
 - JWT (Json Web Token)
 - Bcrypt (Hash de senha)
+
+## **FlaskJUMP | [Ver Código](https://github.com/jaedsonpys/FlaskJUMP)**
+
+![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
+![BADGE](https://img.shields.io/static/v1?label=linguagem&message=python)
+![BADGE](https://img.shields.io/static/v1?label=tipo&message=intermédiario)
+
+O FlaskJUMP é uma ferramenta CLI que facilita a criação de projetos utilizando o micro framework Flask, do Python. Com um comando você já tem
+todo seu projeto criado, desde pastas a arquivos!
+
+### Tecnologias usadas:
+- Python3
