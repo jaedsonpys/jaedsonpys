@@ -2,7 +2,6 @@
 ![BADGE](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-[![BADGE](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaedson.py)
 
 Sou programador Python focado em desenvolvimento de *aplicacões* web e CLI (Comand Line Interface), com 1 ano de experiência.
 
