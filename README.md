@@ -11,7 +11,7 @@ Aqui vão as *tecnologias* e *ferramentas* que eu possuo bastante **conhecimento
 
 - Python3
 - MySQL
-- Flask (Web Micro Framework Python)
+- Flask (Microframework Web)
 - Git e GitHub
 - HTML5
 - CSS3
