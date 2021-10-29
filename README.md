@@ -1,4 +1,4 @@
-# **Bem vindo ao meu perfil!**
+# **Olá! 👋 **
 ![BADGE](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
