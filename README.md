@@ -1,4 +1,4 @@
-# **Olá! 👋 **
+# **Olá! 👋**
 ![BADGE](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -115,7 +115,7 @@ De projetos simples e avançados, deixei aqui alguns deles!
 
 ![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
 ![BADGE](https://img.shields.io/static/v1?label=linguagem&message=python)
-![BADGE](https://img.shields.io/static/v1?label=tipo&message=simples)
+![BADGE](https://img.shields.io/static/v1?label=tipo&message=simples&color=green)
 
 Um simples sistema de autenticação onde você pode fazer login, logout e criar/deletar sua conta.
 
@@ -131,7 +131,7 @@ Um simples sistema de autenticação onde você pode fazer login, logout e criar
 
 ![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
 ![BADGE](https://img.shields.io/static/v1?label=linguagem&message=python)
-![BADGE](https://img.shields.io/static/v1?label=tipo&message=intermédiario)
+![BADGE](https://img.shields.io/static/v1?label=tipo&message=intermédiario&color=orange)
 
 O FlaskJUMP é uma ferramenta CLI que facilita a criação de projetos utilizando o micro framework Flask, do Python. Com um comando você já tem
 todo seu projeto criado, desde pastas a arquivos!
