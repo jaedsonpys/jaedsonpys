@@ -139,3 +139,17 @@ todo seu projeto criado, desde pastas a arquivos!
 ### Tecnologias usadas:
 
 * Python3
+
+## **LinuxSave | [Ver Código](https://github.com/jaedsonpys/LinuxSave)**
+
+![BADGE](https://img.shields.io/static/v1?label=status&message=finalizado&color=green)
+![BADGE](https://img.shields.io/static/v1?label=linguagem&message=python)
+![BADGE](https://img.shields.io/static/v1?label=tipo&message=avançado&color=red)
+
+O LinuxSave é um programa que faz o backup automático dos dados na hora que desejar dos diretórios que você selecionou,
+evitando perdas de dados.
+
+### Tecnologias usadas:
+
+* Python
+* Shell Script 
