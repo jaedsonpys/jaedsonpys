@@ -1,24 +1,20 @@
-# **Olá! 👋**
-![BADGE](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+# **Olá 👋 Sou o Jaedson!**
 
 Sou desenvolvedor focado em desenvolvimento de *aplicacões* web.
 
 # **👨🏻‍💻 Habilidades**
 
-Aqui vão as *tecnologias* e *ferramentas* que eu possuo bastante **conhecimento**!
-
-- Python3
-- MySQL
-- Flask (Framework Web)
-- Git e GitHub
-- HTML5
-- CSS3
- 
-> Em questão de linguagem, Python é a única já que ela consegue superar todas as minhas necessidades atuais.
+![BADGE](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![BADGE](https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=html5&logoColor=white)
 
 # **👀 Conhecedor...**
+
+![BADGE](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![BADGE](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![BADGE](https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=c+.ogoColor=white)
+![BADGE](https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=html5&logoColor=white)
 
 Cheguei a **estudar** essas tecnologias e **linguagens**, mas não me aprofundei tanto, quem sabe um dia eu volte...
 
