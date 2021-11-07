@@ -13,6 +13,7 @@ Possuo bastante conhecimento nas tecnologias abaixo:
 
 ![BADGE](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![BADGE](https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=html5&logoColor=white)
 
