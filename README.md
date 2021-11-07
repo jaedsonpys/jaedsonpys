@@ -4,6 +4,8 @@ Sou desenvolvedor focado em desenvolvimento de *aplicacões* web.
 
 # **👨🏻‍💻 Habilidades**
 
+Possuo bastante conhecimento nas tecnologias abaixo:
+
 ![BADGE](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![BADGE](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![BADGE](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -11,97 +13,31 @@ Sou desenvolvedor focado em desenvolvimento de *aplicacões* web.
 
 # **👀 Conhecedor...**
 
+Cheguei a **estudar** essas tecnologias e **linguagens**, mas não me aprofundei tanto:
+
 ![BADGE](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![BADGE](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![BADGE](https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=c+.ogoColor=white)
-![BADGE](https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=html5&logoColor=white)
-
-Cheguei a **estudar** essas tecnologias e **linguagens**, mas não me aprofundei tanto, quem sabe um dia eu volte...
-
-- JavaScript
-- NodeJS
-- C++
-- React Native / Expo
-
-# **📔 Cursos e certificados!**
-
-Durante esse tempo, meu objetivo sempre foi consumir ao máximo o conteúdo disponível gratuitamente na internet, como o **[Curso em Vídeo](https://cursoemvideo.com)**, YouTube e outras plataformas. Aqui estão os meus certificados e cursos atuais:
-
-## Curso de Python3 | Curso em Vídeo
-
-Este curso é separado por 3 módulos, sendo o último o mais avançado. O curso aborda vários conceitos iniciais do Python, com mais de **100**
-exercícios realizados.
-
-Lá, aprendi sobre:
-
-* Listas, dicionários, tuplas, etc;
-* Condições;
-* Estrutura de repetição;
-* Funções
-* Uso de bibliotecas;
-* Conceitos básicos da linguagem;
-* Tratamento de erros
-
-## Curso de MySQL | Curso em Vídeo
-
-Curso introdutório em MySQL, com vários módulos e com a carga horária de 40 horas.
-
-Lá, tive a oportunidade de aprender sobre:
-
-* Criação de tabelas
-* Criação de banco de dados
-* Manipulação de dados
-* Consultas
-* Backups
-* XAMPP e PHPMyAdmin
-* Modelo relacional
-* Foreign Key
-
-## Certificado de Python | HackerRank
-
-Teste de Python que abordou algoritmos e POO (programação orientada a objetos).
-
-Você pode [acessar o certificado aqui](https://drive.google.com/file/d/15kMaZcXPKQxHRw8YT-eYU2VNScZaGXQm/view?usp=sharing).
-
-## Curso de JavaScript | Curso em Vídeo
-
-Meu primeiro contato com a programação foi neste curso, que aborda conceitos do JavaScript.
-
-Durante o curso, aprendi sobre:
-
-* Funções
-* Objetos, arrays, etc
-* DOM (Document Object Manipulation)
-* Condições e repetições
-
-Você pode [acessar o certificado de Javascript aqui](https://drive.google.com/file/d/1ske_7xu4N4S12T596z_ATwzThUfjZde_/view?usp=sharing).
+![BADGE](https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=c&logoColor=white)
+![BADGE](https://img.shields.io/badge/React%20Native-00000F?style=for-the-badge&logo=react&logoColor=white)
+![BADGE](https://img.shields.io/badge/Expo-00000F?style=for-the-badge&logo=expo&logoColor=white)
 
 
-## Curso de HTML5 e CSS3 (Módulo 1 de 5) | Curso em Vídeo
+# **📔 Aluguns cursos e certificados**
 
-Curso de HTML e CSS no módulo 1/5, primeiro contato com HTML5.
+* **Curso de Python - Fundação Bradesco**
+    * [Acessar certificado](https://drive.google.com/file/d/190xw_lq-XyfJoLXz6rsUG5pZD0FS5x09/view?usp=sharing)
+    * Tempo de duração: 18 horas
 
-Você pode [acessar o certificado de HTML5 e CSS3 aqui](https://drive.google.com/file/d/1snH4kDOHtRA0MM5yX62cX56I87kYaLQz/view?usp=sharing).
+* **Segurança da informação com Python - Digital Innovation One**
+    * [Acessar certificado](https://drive.google.com/file/d/1_p6B5ZRu7YwQsHEJIuPL7950TObcEqhb/view?usp=sharing)
+    * Tempo de duração: 5 horas
 
-## Certificado Maratona Front-end | Kenzie Academy
+* **Teste de Python - HackerRank**
+    * [Acessar certificado](https://drive.google.com/file/d/15kMaZcXPKQxHRw8YT-eYU2VNScZaGXQm/view?usp=sharing)
 
-Uma maratona em que criamos um site usando HTML5, CSS3 e Javascript do zero.
-
-Você pode [acessar o certificado da Maratona Kenzie aqui](https://drive.google.com/file/d/1JOthc9ImG2F0kHvzss_j28CGHpVWxYHb/view?usp=sharing).
-
-
-## Curso de Python | Fundação Bradesco - EV
-
-O curso faz uma introdução básica a linguagem python.
-
-Nele, foi abordado:
-
-* Variáveis e tipos de dados
-* Funções
-* Manipulação de arquivos
-* Estruturas de repetição
-
-Você pode [acessar o certificado da Fundação Bradesco aqui](https://drive.google.com/file/d/190xw_lq-XyfJoLXz6rsUG5pZD0FS5x09/view?usp=sharing).
+* **Curso de JavaScript - Curso em Vídeo**
+    * [Acessar certificado](https://drive.google.com/file/d/1ske_7xu4N4S12T596z_ATwzThUfjZde_/view?usp=sharing)
+    * Tempo de duração: 40 horas
 
 # **✏️ Alguns dos meus projetos**
 
