@@ -11,10 +11,11 @@ Conheça-me um pouco!
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedsonpys&langs_count=3&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jaedsonpys&count_private=true&theme=tokyonight&showicons=true)]() -->
 
-![BADGE](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=yellow)
-![BADGE](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![BADGE](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=blue)
-![BADGE](https://img.shields.io/badge/HTML5-00000F?style=flat&logo=html5&logoColor=orange)
+![BADGE](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=yellow)
+![BADGE](https://img.shields.io/badge/Typescript-gray?style=flat-square&logo=typescript&logoColor=blue)
+![BADGE](https://img.shields.io/badge/Flask-gray?style=flat-square&logo=flask&logoColor=white)
+![BADGE](https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
+![BADGE](https://img.shields.io/badge/HTML5-gray?style=flat-square&logo=html5&logoColor=orange)
 
 
 ## **📔 Alguns cursos e certificados**
