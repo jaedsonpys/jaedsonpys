@@ -2,7 +2,7 @@
 
 Conheça-me um pouco!
 
-* 👾 Web Fullstack Dev
+* 👾 Backend Dev
 * 🐍 Desenvolvedor Python há 1 ano
 * 🛠 Criador do framework [SnakeServer](https://github.com/jaedsonpys/SnakeServer)
 * 🔐 Curioso em **Segurança da Informação** & **Cybersecurity**
