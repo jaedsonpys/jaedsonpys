@@ -7,9 +7,9 @@ Conheça-me um pouco!
 * 🛠 Criador do framework [SnakeServer](https://github.com/jaedsonpys/SnakeServer)
 * 🔐 Curioso em **Segurança da Informação** & **Cybersecurity**
 
-## **👨🏻‍💻 Habilidades**
 
-Possuo bastante conhecimento nas tecnologias abaixo:
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedsonpys&langs_count=3&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jaedsonpys&count_private=true&theme=tokyonight&showicons=true)]() -->
 
 ![BADGE](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=yellow)
 ![BADGE](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
