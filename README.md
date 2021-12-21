@@ -4,7 +4,7 @@ Conheça-me um pouco!
 
 * 👾 Backend Dev
 * 🐍 Desenvolvedor Python há 1 ano
-* 🛠 Último projeto: [AScrypt](https://github.com/jaedsonpys/ascrypt-token)
+* 🛠 Último projeto: [IMSB](https://github.com/jaedsonpys/imsb)
 * 🔐 Curioso em **Segurança da Informação** & **Cybersecurity**
 
 ![BADGE](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=yellow)
