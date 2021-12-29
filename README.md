@@ -1,6 +1,6 @@
 # **Olá 👋, Sou o Jaedson!**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedsonpys&line_height=24&include_all_commits=true&hide=contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedsonpys&line_height=24&include_all_commits=true&hide=contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedsonpys&theme=onedark&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -22,4 +22,4 @@ Conheça-me um pouco!
 Encontre-me em uma das minhas formas de contato!
 
 - [Instragram](https://instagram.com/jaedsonpys)
-- [LinkedIn](https://linkedin/jaedsonpys)
+- [LinkedIn](https://linkedin.com/in/jaedsonpys)
