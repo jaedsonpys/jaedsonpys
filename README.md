@@ -11,11 +11,13 @@ Conheça-me um pouco!
 * 🛠 Projetos web, apps e CLI
 * 🔐 Curioso em **Segurança da Informação**
 
-![BADGE](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=yellow)
-![BADGE](https://img.shields.io/badge/Typescript-gray?style=flat-square&logo=typescript&logoColor=blue)
-![BADGE](https://img.shields.io/badge/Flask-gray?style=flat-square&logo=flask&logoColor=white)
-![BADGE](https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
-![BADGE](https://img.shields.io/badge/HTML5-gray?style=flat-square&logo=html5&logoColor=orange)
+## Habilidades
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height='35px'/>
+
+## Conhecimento
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='35px'/>
 
 ## Encontre-me
 
