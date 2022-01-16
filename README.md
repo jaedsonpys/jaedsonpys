@@ -10,6 +10,7 @@ Conheça-me um pouco!
 * 🐍 Desenvolvedor Python há 1 ano
 * 🛠 Projetos web, apps e CLI
 * 🔐 Curioso em **Segurança da Informação**
+* 🎯 Estudando **C++ e Arduíno**
 
 ## Habilidades
 
