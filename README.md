@@ -3,7 +3,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedsonpys&line_height=24&include_all_commits=false&count_private=true&hide=contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedsonpys&theme=onedark&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Olá, sou o Jaedson! Desenvolvedor fullstack focado em apoiar a comunidade open-source e ajudar pessoas a evoluirem no mundo da programação. Tenho projetos incríveis disponibilizados em meu GitHub, como [SnakeG](https://github.com/jaedsonpys/snakeg), [UToken](https://github.com/jaedsonpys/utoken), [LaikaDB](https://github.com/jaedsonpys/laikadb) e outros.
+Olá, sou o Jaedson! Desenvolvedor fullstack focado em apoiar a comunidade open-source e ajudar pessoas a evoluirem no mundo da programação. Tenho projetos incríveis disponibilizados em meu GitHub, como [SnakeG](https://github.com/jaedsonpys/snakeg), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [LaikaDB](https://github.com/jaedsonpys/laikadb) e outros.
 
 * 👾 Fullstack Dev
 * 🐍 Desenvolvedor Python, Javascript
