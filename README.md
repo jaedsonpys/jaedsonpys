@@ -10,9 +10,18 @@ Olá, sou o Jaedson! Desenvolvedor fullstack focado em apoiar a comunidade open-
 * 🔐 Curioso em Segurança da Informação
 * 🎯 Estudando C++ e Arduíno
 
-<!-- ## Habilidades
+### Tecnologias & ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='35px'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height='35px'/> -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Lib-React.js-informational?style=flat&logo=react&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Lang-typescript-informational?style=flat&logo=typescript&logoColor=white&color=8a6eb1)
 
 <!-- ## Conhecimento
 
