@@ -10,7 +10,7 @@ Olá, sou o Jaedson! Desenvolvedor fullstack focado em apoiar a comunidade open-
 * 🔐 Curioso em Segurança da Informação
 * 🎯 Estudando C++ e Arduíno
 
-### Tecnologias & ferramentas
+### 🔧 Tecnologias & ferramentas
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=8a6eb1)
@@ -27,7 +27,7 @@ Olá, sou o Jaedson! Desenvolvedor fullstack focado em apoiar a comunidade open-
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='35px'/> -->
 
-### Encontre-me
+### 📍 Encontre-me
 
 - Instagram: https://instagram.com/jaedsondev
 - Linkedin: https://linkedin.com/in/jaedsonpys
