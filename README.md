@@ -9,7 +9,7 @@ Olá, sou o Jaedson! Desenvolvedor fullstack focado em apoiar a comunidade open-
 * 🐍 Desenvolvedor Python, Javascript
 * 🔐 Curioso em Segurança da Informação
 * 💻 Desenvolvedor open-source
-* 🎯 Estudando C++ e Assembly
+* 🎯 Estudando C++
 
 ### 🔧 Tecnologias & ferramentas
 
