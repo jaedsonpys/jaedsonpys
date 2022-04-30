@@ -1,6 +1,6 @@
 ## **Jaedson Silva - @jaedsonpys**
 
-Hi, I'm Jason! Fullstack developer focused on supporting the open-source community, helping people evolve in the programming world and make Arduino projects. I have amazing projects available on my GitHub, like [SnakeG](https://github.com/jaedsonpys/snakeg), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [LaikaDB](https://github.com/jaedsonpys/laikadb) and others.
+Hi, I'm Jaedson! Fullstack developer focused on supporting the open-source community, helping people evolve in the programming world and make Arduino projects. I have amazing projects available on my GitHub, like [SnakeG](https://github.com/jaedsonpys/snakeg), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [LaikaDB](https://github.com/jaedsonpys/laikadb) and others.
 
 ### 🔧 Technologies & tools
 
