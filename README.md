@@ -1,6 +1,6 @@
 ## **Jaedson Silva - @jaedsonpys**
 
-Hi, I'm Jaedson! Fullstack developer focused on supporting the open-source community, helping people evolve in the programming world and make Arduino projects. I have amazing projects available on my GitHub, like [SnakeG](https://github.com/jaedsonpys/snakeg), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [LaikaDB](https://github.com/jaedsonpys/laikadb) and others.
+Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** community, helping people evolve in the programming world. Passionate about creating projects in **Arduino** and **ESP32**. I have **amazing projects** available on my GitHub, like [SnakeG](https://github.com/jaedsonpys/snakeg), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [LaikaDB](https://github.com/jaedsonpys/laikadb) and others. **Explore my GitHub**! 🚀
 
 ### 🔧 Technologies & tools
 
@@ -14,6 +14,8 @@ Hi, I'm Jaedson! Fullstack developer focused on supporting the open-source commu
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Lang-typescript-informational?style=flat&logo=typescript&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=esp32&logoColor=white&color=8a6eb1)
 
 <!-- ## Conhecimento
 
