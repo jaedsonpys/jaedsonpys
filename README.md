@@ -17,10 +17,6 @@ Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** c
 ![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=esp32&logoColor=white&color=8a6eb1)
 
-<!-- ## Conhecimento
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='35px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='35px'/> -->
-
 ### 📍 Find-me
 
 - Instagram: https://instagram.com/jaedsondev
