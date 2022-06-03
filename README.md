@@ -19,5 +19,5 @@ Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** c
 
 ### 📍 Find-me
 
-- Instagram: https://instagram.com/jaedsondev
+- Instagram: https://instagram.com/jaedson.py
 - Linkedin: https://linkedin.com/in/jaedsonpys
