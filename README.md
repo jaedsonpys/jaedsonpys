@@ -1,6 +1,6 @@
-## **Jaedson Silva - @jaedsonpys**
+## 👋🏻 **Jaedson Silva - @jaedsonpys**
 
-Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** community, helping people evolve in the programming world. Passionate about creating projects in **Arduino** and **ESP32**. I have **amazing open-source projects** available on my GitHub, like [PySGI](https://github.com/jaedsonpys/pysgi), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [PyPacking](https://github.com/jaedsonpys/pypacking) and others. **Explore my GitHub**! 🚀
+Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** community, helping people evolve in the programming world. Passionate about creating projects in **Arduino** and **ESP32**. I have **amazing open-source projects** available on my GitHub, like [PySGI](https://github.com/jaedsonpys/pysgi), [Vestory](https://github.com/jaedsonpys/vestory), [UToken](https://github.com/jaedsonpys/utoken), [PyPacking](https://github.com/jaedsonpys/pypacking) and others. **Explore my GitHub** and discover each one! 🚀
 
 ### 🔧 Technologies & tools
 
