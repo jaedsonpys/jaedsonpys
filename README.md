@@ -15,7 +15,7 @@ Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** c
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Lang-typescript-informational?style=flat&logo=typescript&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=8a6eb1)
-![](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=esp32&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=espressif&logoColor=white&color=8a6eb1)
 
 ### 📍 Find-me
 
