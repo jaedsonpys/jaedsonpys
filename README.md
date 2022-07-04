@@ -1,6 +1,8 @@
 ## 👋🏻 **Jaedson Silva - @jaedsonpys**
 
-Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** community, helping people evolve in the programming world. Passionate about creating projects in **Arduino** and **ESP32**. I have **amazing open-source projects** available on my GitHub, like [PySGI](https://github.com/jaedsonpys/pysgi), [Vestory](https://github.com/jaedsonpys/vestory), [CookieDB](https://github.com/jaedsonpys/cookiedb), [PyPacking](https://github.com/jaedsonpys/pypacking) and others. **Explore my GitHub** and discover each one! 🚀
+Hi, I'm Jaedson! Developer focused on supporting the **open source** community. I have **amazing open source projects** available on my GitHub such as [PySGI](https://github.com/jaedsonpys/pysgi), [Vestory](https://github.com/jaedsonpys/vestory)[CookieDB](https://github.com/jaedsonpys/cookiedb), [PyPacking](https://github.com/jaedsonpys/pypacking) and others. **Explore my GitHub** and discover each one! 🚀
+
+You can find me on [LinkedIn](https://linkedin.com/in/jaedsonpys) or my personal [Instagram](https://instagram.com/jaedson.py).
 
 ### 🔧 Technologies & tools
 
@@ -16,8 +18,3 @@ Hi, I'm Jaedson! Fullstack developer focused on supporting the **open-source** c
 ![](https://img.shields.io/badge/Lang-typescript-informational?style=flat&logo=typescript&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=espressif&logoColor=white&color=8a6eb1)
-
-### 📍 Find-me
-
-- Instagram: https://instagram.com/jaedson.py
-- Linkedin: https://linkedin.com/in/jaedsonpys
