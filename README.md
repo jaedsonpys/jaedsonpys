@@ -11,6 +11,7 @@ You can find me on [LinkedIn](https://linkedin.com/in/jaedsonpys) or my personal
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=8a6eb1)
+![](https://img.shields.io/badge/Lang-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Lib-React.js-informational?style=flat&logo=react&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=8a6eb1)
