@@ -3,7 +3,7 @@
 Hi, I'm Jaedson! Developer focused on supporting the **open source** community. I have **amazing open source projects** available on my GitHub such as [PySGI](https://github.com/jaedsonpys/pysgi), [CookieDB](https://github.com/jaedsonpys/cookiedb), [
 BuPyTest](https://github.com/jaedsonpys/bupytest) and others. **Explore my GitHub** and discover each one! 🚀
 
-You can find me on [LinkedIn](https://linkedin.com/in/jaedsonpys) or my personal [Instagram](https://instagram.com/jaedson.py).
+You can find me on [LinkedIn](https://linkedin.com/in/jaedsonpys).
 
 ### 🔧 Technologies & tools
 
