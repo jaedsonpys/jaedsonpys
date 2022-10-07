@@ -2,7 +2,7 @@
 
 I am 15 years old, studying programming since January 2021 and I am a full-stack developer focused on contributing to the ***open-source*** community, building several projects and learning more every day. Check out my **pinned projects** on my GitHub and find out about each one!
 
-You can [find me on LinkedIn](https://linkedin.com/in/jaedsonpys) or contact me at the email address on my profile.
+You can [find me on LinkedIn](https://linkedin.com/in/jaedsonpys), contact me at the email address on my profile or see [my posts on the DEV Community](https://dev.to/jaedsonpys).
 
 ### Technologies & tools
 
