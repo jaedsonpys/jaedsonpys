@@ -4,7 +4,7 @@ I am 15 years old, studying programming since January 2021 and I am a full-stack
 
 You can [find me on LinkedIn](https://linkedin.com/in/jaedsonpys), contact me at the email address on my profile or see [my posts on the DEV Community](https://dev.to/jaedsonpys).
 
-### Technologies & tools
+## Languages, frameworks/libraries & tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=8a6eb1)
