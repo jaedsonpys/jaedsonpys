@@ -1,6 +1,6 @@
 # Hello, i'm Jaedson Silva! 👋
 
-I am 15 years old, studying programming since January 2021 and I am a full-stack developer focused on contributing to the ***open-source*** community, building several projects and learning more every day. Check out my **pinned projects** on my GitHub and find out about each one!
+I'm a young programmer with *only 15 years old*, contributing to the **open-source** community by creating several projects. I'm also focused on projects using microcontrollers, like **Arduino** and **ESP32**. See my pinned repositories and see my best projects!
 
 You can [find me on LinkedIn](https://linkedin.com/in/jaedsonpys) or see [my posts on the DEV Community](https://dev.to/jaedsonpys).
 
