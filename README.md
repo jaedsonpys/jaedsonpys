@@ -2,7 +2,8 @@
 
 I'm a young programmer with *only 15 years old*, contributing to the **open-source** community by creating several projects. I'm also focused on projects using microcontrollers, like **Arduino** and **ESP32**. See my pinned repositories and see my best projects!
 
-You can [find me on LinkedIn](https://linkedin.com/in/jaedsonpys) or see [my posts on the DEV Community](https://dev.to/jaedsonpys).
+- [Find me on LinkedIn](https://linkedin.com/in/jaedsonpys)
+- [See my posts on the DEV Community](https://dev.to/jaedsonpys)
 
 ## Languages, frameworks/libraries & tools
 
