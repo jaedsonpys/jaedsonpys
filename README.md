@@ -21,5 +21,5 @@ I'm a young programmer with *only 15 years old*, contributing to the **open-sour
 
 <a href="https://github.com/jaedsonpys">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaedsonpys&theme=radical&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaedsonpys&theme=radical&hide_border=false"/>
 </a>
