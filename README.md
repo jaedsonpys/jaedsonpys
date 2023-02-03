@@ -1,11 +1,11 @@
-<h1 style="display: flex; justify-content: center">Hello, i'm Jaedson Silva! 👋</h1>
+<h1 style="display: flex; justifique-content: center">Olá, eu sou Jaedson Silva! 👋</h1>
 
-I'm a young programmer with *only 15 years old*, contributing to the **open-source** community by creating several projects. I'm also focused on projects using microcontrollers, like **Arduino** and **ESP32**. See my best projects in pinned repositories!
+Sou um jovem programador com *apenas 15 anos* de idade, criando vários projetos para a comunidade **open-source**. Também estou focado em projetos usando microcontroladores, como **Arduino** e **ESP32**. Veja meus melhores projetos em repositórios fixados!
 
-- [Find me on LinkedIn](https://linkedin.com/in/jaedsonpys)
-- [See my posts on the DEV Community](https://dev.to/jaedsonpys)
+- [Encontre-me no LinkedIn](https://linkedin.com/in/jaedsonpys)
+- [Veja minhas postagens na DEV Community](https://dev.to/jaedsonpys)
 
-## Languages, frameworks/libraries & tools
+## Linguagens, frameworks/bibliotecas & ferramentas
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8a6eb1)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=8a6eb1)
@@ -20,6 +20,6 @@ I'm a young programmer with *only 15 years old*, contributing to the **open-sour
 ![](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=espressif&logoColor=white&color=8a6eb1)
 
 <a href="https://github.com/jaedsonpys">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaedsonpys&theme=radical&hide_border=false"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaedsonpys&theme=radical&hide_border=false"/>
 </a>
