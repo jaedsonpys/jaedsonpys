@@ -1,6 +1,6 @@
 <h1 style="display: flex; justify-content: center">Hello, i'm Jaedson Silva! 👋</h1>
 
-I'm a young programmer with *only 15 years old*, contributing to the **open-source** community by creating several projects. I'm also focused on projects using microcontrollers, like **Arduino** and **ESP32**. See my pinned repositories and see my best projects!
+I'm a young programmer with *only 15 years old*, contributing to the **open-source** community by creating several projects. I'm also focused on projects using microcontrollers, like **Arduino** and **ESP32**. See my best projects in pinned repositories!
 
 - [Find me on LinkedIn](https://linkedin.com/in/jaedsonpys)
 - [See my posts on the DEV Community](https://dev.to/jaedsonpys)
