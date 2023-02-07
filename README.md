@@ -1,4 +1,4 @@
-<h1 style="display: flex; justifique-content: center">Olá, eu sou Jaedson Silva! 👋</h1>
+<h1 style="display: flex; justify-content: center">Olá, eu sou Jaedson Silva! 👋</h1>
 
 Sou um jovem programador com *apenas 15 anos* de idade, criando vários projetos para a comunidade **open-source**. Também estou focado em projetos usando microcontroladores, como **Arduino** e **ESP32**. Veja meus melhores projetos em repositórios fixados!
 
