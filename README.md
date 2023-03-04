@@ -1,6 +1,6 @@
-<h1 style="display: flex; justify-content: center">Olá, eu sou Jaedson Silva! 👋</h1>
+# Olá, eu sou Jaedson Silva! 👋
 
-Sou um jovem programador com *apenas 15 anos* de idade, criando vários projetos para a comunidade **open-source**. Também estou focado em projetos usando microcontroladores, como **Arduino** e **ESP32**. Veja meus melhores projetos em repositórios fixados!
+Sou um jovem desenvolvedor full-stack com *15 anos* de idade, desenvolvendo diversos projetos _open-source_ com Python, JavaScript e C++. Veja meus melhores projetos fixados aqui no GitHub!
 
 - [Meu perfil no LinkedIn](https://linkedin.com/in/jaedsonpys)
 - [Meus artigos na DEV Community](https://dev.to/jaedsonpys)
