@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou <a href="https://instagram.com/jaedsonpys">Jaedson Silva</a>! 👋</h1>
 
 <p align="center">
-   <a href="">
+   <a href="https://instagram.com/jaedsonpys">
+      <img alt="User Instagram" src="https://img.shields.io/static/v1?label=Instagram&message=Seguir&logo=instagram&color=orange">
+   </a>
+   <a href="" style="margin-right: 5px; margin-left: 5px">
       <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/jaedsonpys?style=social">
    </a>
-   <a href="https://instagram.com/jaedsonpys" style="margin-right: 5px; margin-left: 5px">
-      <img alt="User Instagram" src="https://img.shields.io/static/v1?label=Instagram&message=@jaedsonpys&logo=instagram&style=social">
-   </a>
    <a href="https://dev.to/jaedsonpys">
-      <img alt="Dev.to Profile" src="https://img.shields.io/static/v1?label=DEV.to&message=jaedsonpys&logo=dev.to&style=social">
+      <img alt="Dev.to Profile" src="https://img.shields.io/static/v1?label=DEV.to&message=Ler artigos&color=green&logo=dev.to">
    </a>
 </p>
 
