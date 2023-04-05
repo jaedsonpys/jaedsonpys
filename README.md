@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Jaedson Silva! 👋</h1>
 
-Sou um jovem desenvolvedor full-stack com *15 anos* de idade, desenvolvendo diversos projetos _open-source_ com Python, JavaScript e C++. Veja meus melhores projetos fixados aqui no GitHub.
+Sou um jovem desenvolvedor full-stack com *15 anos* de idade, estudando e desenvolvendo diversos projetos _open-source_ desde Janeiro de 2021, utilizando linguagens como Python, JavaScript e C++. Veja meus **melhores projetos** fixados aqui no GitHub.
 
 <a href="https://github.com/jaedsonpys">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
