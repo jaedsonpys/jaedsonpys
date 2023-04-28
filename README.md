@@ -14,7 +14,7 @@
 
 Olá, eu sou Jaedson, um jovem desenvolvedor de 15 anos apaixonado por tecnologia e *open-source*. Comecei minha jornada na programação em janeiro de 2021 e, desde então, tenho explorado diferentes linguagens e tecnologias para expandir minhas habilidades.
 
-Atualmente, sou proficiente em JavaScript, C++ e Python, e tenho trabalhado em projetos que abrangem desde a criação de aplicativos iOS e Android até desenvolvimento web. Se você estiver procurando por um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para **explorar meu perfil** e [entrar em contato](mailto:jaedson.dev@proton.me) comigo. Estou sempre aberto a novas ideias e desafios!
+Atualmente, sou proficiente em JavaScript, C++ e Python, e tenho trabalhado em projetos que abrangem desde a criação de aplicativos iOS e Android com React Native até desenvolvimento web, com React.js. Se você estiver procurando por um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para **explorar meu perfil** e [entrar em contato](mailto:jaedson.dev@proton.me) comigo. Estou sempre aberto a novas ideias e desafios!
 
 <a href="https://github.com/jaedsonpys">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
