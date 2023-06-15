@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://instagram.com/jaedsonpys">Jaedson Silva</a>! 👋</h1>
 
 <p align="center">
-    <a href="https://instagram.com/jaedsonpys">
-       <img alt="User Instagram" src="https://img.shields.io/static/v1?label=Instagram&message=Follow&logo=instagram&color=orange">
+    <a href="mailto:jaedson.dev@proton.me">
+       <img alt="My Email" src="https://img.shields.io/static/v1?label=Email&message=Contact me!&color=green&logo=dev.to">
     </a>
     <a href="" style="margin-right: 5px; margin-left: 5px">
        <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/jaedsonpys?style=social">
