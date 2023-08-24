@@ -12,9 +12,7 @@
     </a>
 </p>
 
-Hi, I'm Jaedson, a 16 year old developer passionate about technology and *open-source*. I started my programming journey in January 2021 and since then I have been exploring different languages and technologies to expand my skills.
-
-I am currently proficient in JavaScript, C++ and Python and have worked on projects ranging from building iOS and Android apps with React Native to web development with React.js. If you are looking for a dedicated and enthusiastic developer, feel free to **explore my profile** and [contact me](mailto:jaedson.dev@proton.me). I'm always open to new _ideas and challenges_!
+Hello! What's up? My name is Jaedson Silva and i'm 16 years old, programming since January 2021 with JavaScript, Python and C++ languages. I like to create open-source projects and projects with microcontrollers like Arduino or ESP32. If you are looking for a dedicated and enthusiastic developer, feel free to **explore my profile** and [contact me](mailto:jaedson.dev@proton.me). I'm always open to new _ideas and challenges_!
 
 <a href="https://github.com/jaedsonpys">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
