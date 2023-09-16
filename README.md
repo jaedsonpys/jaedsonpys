@@ -14,7 +14,4 @@
 
 Hello! What's up? My name is Jaedson Silva and i'm 16 years old, programming since January 2021 with JavaScript, Python and C++ languages. I like to create open-source projects and projects with microcontrollers like Arduino or ESP32. If you are looking for a dedicated and enthusiastic developer, feel free to **explore my profile** and [contact me](mailto:jaedson.dev@proton.me). I'm always open to new _ideas and challenges_!
 
-<a href="https://github.com/jaedsonpys">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaedsonpys&theme=radical&layout=compact" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaedsonpys&theme=radical&hide_border=false"/>
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedsonpys&show_icons=true&theme=radical)
